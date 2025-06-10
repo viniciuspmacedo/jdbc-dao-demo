@@ -2,7 +2,6 @@ package org.example.model.dao;
 
 import org.example.model.entities.Seller;
 
-import java.nio.channels.SeekableByteChannel;
 import java.util.List;
 
 public interface SellerDao {
